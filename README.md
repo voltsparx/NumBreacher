@@ -30,11 +30,13 @@ exportjson report.json
 ## Ethical Use
 
 NumBreacher is for:
+
 ✔ Security research  
 ✔ Educational use  
 ✔ Authorized testing  
 
 Not for:
+
 ✖ Harassment  
 ✖ Surveillance  
 ✖ Privacy violation  
