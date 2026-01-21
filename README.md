@@ -18,7 +18,7 @@ NumBreacher is a cybersecurity OSINT and telecom reconnaissance tool designed to
 git clone https://github.com/voltsparx/NumBreacher.git
 cd NumBreacher
 pip install -r requirements.txt  
-python numbreacher.py
+python numBreacher.py
 ```
 
 ## Usage
