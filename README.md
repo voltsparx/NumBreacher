@@ -1,8 +1,6 @@
-# NumBreacher
+# NumBreacher v1.3.0
 
 NumBreacher is a telecom recon and OSINT framework for phone-number triage, investigation workflows, and reporting.
-
-Current version: `1.3.0`
 
 ## Core Capabilities
 
