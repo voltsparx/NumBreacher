@@ -1,0 +1,5 @@
+# Owner-oriented investigation workflow
+ownerlookup on
+whois +14155552671
+whoisbulk numbers.txt
+searchresults unknown

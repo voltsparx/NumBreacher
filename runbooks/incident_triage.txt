@@ -1,0 +1,8 @@
+# Incident triage workflow
+profile professional
+engine async
+workers 16
+bulkview compact
+bulk numbers.txt
+toprisks 10
+reportjson output/report_summary.json

@@ -1,0 +1,5 @@
+# Beginner quickstart runbook
+profile beginner
+scan +14155552671
+summary
+report output/report.md

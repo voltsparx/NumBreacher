@@ -1,0 +1,576 @@
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
+[96mScan Result for +14155552671[0m
+----------------------------------------
+Country     : United States
+Region      : San Francisco, CA
+Timezone    : America/Los_Angeles
+Carrier     : Unknown
+Line Type   : FIXED_LINE_OR_MOBILE
+VoIP        : No
+Risk Level  : Medium
+
+Number Formats:
+ E164        : +14155552671
+ International: +1 415-555-2671
+ National    : (415) 555-2671
+ RFC3966     : tel:+1-415-555-2671
+
+Owner OSINT:
+ Name       : Lookup disabled
+ Confidence : Low
+ Method     : Disabled by user setting
+ Notes      : Enable owner lookup with `ownerlookup on`.
+
+Reputation Links:
+ 800notes  : https://800notes.com/Phone.aspx/14155552671
+ WhoCalledMe: https://whocalledme.com/Phone-Number.aspx/14155552671
+ SpamCalls : https://spamcalls.net/en/number/14155552671
+
+OSINT Links:
+ Truecaller: https://www.truecaller.com/search/1/4155552671
+ Google    : https://www.google.com/search?q=14155552671
+ GoogleExact: https://www.google.com/search?q=%2214155552671%22
+ Bing      : https://www.bing.com/search?q=%2214155552671%22
+ Facebook  : https://www.facebook.com/search/top/?q=14155552671
+ LinkedIn  : https://www.linkedin.com/search/results/all/?keywords=14155552671
+ WhatsApp  : https://wa.me/14155552671
+ Telegram  : https://t.me/14155552671
